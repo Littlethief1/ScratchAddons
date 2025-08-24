@@ -8,7 +8,7 @@ const defaultColor = {
 };
 
 const highContrastColor = {
-  color: "#34e4d0",
+  color: "#73b81f",
   secondaryColor: "#229487",
   tertiaryColor: "#229487",
 };
